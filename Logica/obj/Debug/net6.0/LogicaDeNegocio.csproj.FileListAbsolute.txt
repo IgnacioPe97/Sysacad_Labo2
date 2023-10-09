@@ -1,0 +1,12 @@
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\ValidacionDeDatos\bin\Debug\net6.0\LogicaDeNegocio.deps.json
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\ValidacionDeDatos\bin\Debug\net6.0\LogicaDeNegocio.dll
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\ValidacionDeDatos\bin\Debug\net6.0\LogicaDeNegocio.pdb
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\ValidacionDeDatos\obj\Debug\net6.0\LogicaDeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\ValidacionDeDatos\obj\Debug\net6.0\LogicaDeNegocio.AssemblyInfoInputs.cache
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\ValidacionDeDatos\obj\Debug\net6.0\LogicaDeNegocio.AssemblyInfo.cs
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\ValidacionDeDatos\obj\Debug\net6.0\LogicaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\ValidacionDeDatos\obj\Debug\net6.0\LogicaDeNegocio.dll
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\ValidacionDeDatos\obj\Debug\net6.0\refint\LogicaDeNegocio.dll
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\ValidacionDeDatos\obj\Debug\net6.0\LogicaDeNegocio.pdb
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\ValidacionDeDatos\obj\Debug\net6.0\ref\LogicaDeNegocio.dll
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\ValidacionDeDatos\obj\Debug\net6.0\LogicaDeNegocio.csproj.AssemblyReference.cache
