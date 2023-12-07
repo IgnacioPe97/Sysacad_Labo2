@@ -1,0 +1,15 @@
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\EntidadesSysacad\bin\Debug\net6.0\EntidadesSysacad.deps.json
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\EntidadesSysacad\bin\Debug\net6.0\EntidadesSysacad.dll
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\EntidadesSysacad\bin\Debug\net6.0\EntidadesSysacad.pdb
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\EntidadesSysacad\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\EntidadesSysacad\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\EntidadesSysacad\obj\Debug\net6.0\EntidadesSysacad.csproj.AssemblyReference.cache
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\EntidadesSysacad\obj\Debug\net6.0\EntidadesSysacad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\EntidadesSysacad\obj\Debug\net6.0\EntidadesSysacad.AssemblyInfoInputs.cache
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\EntidadesSysacad\obj\Debug\net6.0\EntidadesSysacad.AssemblyInfo.cs
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\EntidadesSysacad\obj\Debug\net6.0\EntidadesSysacad.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\EntidadesSysacad\obj\Debug\net6.0\EntidadesSysacad.csproj.CopyComplete
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\EntidadesSysacad\obj\Debug\net6.0\EntidadesSysacad.dll
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\EntidadesSysacad\obj\Debug\net6.0\refint\EntidadesSysacad.dll
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\EntidadesSysacad\obj\Debug\net6.0\EntidadesSysacad.pdb
+C:\Users\Ignacio Pereyra\Desktop\Solution C#\EntidadesSysacad\obj\Debug\net6.0\ref\EntidadesSysacad.dll
