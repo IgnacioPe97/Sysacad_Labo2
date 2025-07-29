@@ -19,5 +19,5 @@ El sistema incluye persistencia en base de datos SQL, diseño orientado a objeto
 ## 🛠️ Tecnologías utilizadas
 
 - **Lenguaje:** C#
-- **Framework:** .NET Framework / WinForms *(o WPF, según corresponda)*
+- **Framework:** .NET Framework / WinForms 
 - **Base de datos:** SQL Server
